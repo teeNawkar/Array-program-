@@ -27,6 +27,8 @@ for(let i=0; i<marksArray.length; i++){
 const average=total / marksArray.length;
 
 const perecntage=(total/ (marksArray.length *100))*100;
+document.getElementById("result").innerText = 
+  `Total: ${total}, Average: ${average.toFixed(2)}, Percentage: ${perecntage.toFixed(2)}%`;
 
 console.log("Marks entered:", marksArray);
 console.log("Total:", total);

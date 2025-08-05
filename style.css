@@ -16,6 +16,27 @@ body{
     color: aliceblue;
     font-size: 17px;
 }
+#addmarks {
+    padding: 8px 16px;
+    border: none;
+    background-color: #f2c1c1;
+    color: #fff;
+    border-radius: 8px;
+    cursor: pointer;
+    margin: 5px;
+    font-family: 'Poppins', sans-serif;
+  }
+  #calculatemarks{
+    padding: 8px 16px;
+    border: none;
+    background-color: #f2c1c1;
+    color: #fff;
+    border-radius: 8px;
+    cursor: pointer;
+    margin: 5px;
+    font-family: 'Poppins', sans-serif;
+  }
+  
 #calculatemarks{
     background-color: rgb(243, 157, 203);
     border:none ;
