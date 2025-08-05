@@ -1,0 +1,24 @@
+body{
+    background-color: hotpink;
+    padding: 10%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#result{
+    font-family:cursive;
+    font-size: 20px;
+    font-style: italic;
+    color: aliceblue;
+
+}
+#addmarks{
+    background-color: rgb(243, 157, 203);
+    border:none ;
+    color: aliceblue;
+    font-size: 17px;
+}
+#calculatemarks{
+    background-color: rgb(243, 157, 203);
+    border:none ;
+    color: aliceblue;
+    font-size: 17px;
+}
